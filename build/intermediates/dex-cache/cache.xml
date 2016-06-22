@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\XMLPullParser\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\XMLPullParser\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_dfc7273336dbaf0e4b5dd934e478cd9fb4c8a07c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\XMLPullParser\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_925875d9448dd345587cabdb9a56f4834d2efae9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\XMLPullParser\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\XMLPullParser\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_59fc033f5190f7ab430f407db0e3d3734b2adf4d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\XMLPullParser\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1c9767139179bc477d5692b2a23cd50ad12e40ca">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\XMLPullParser\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_001f96924973d9f9eeb5660fcf4c361b8180b646\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\XMLPullParser\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="cfa3fac3f7b3e2eb075bde99a0275ae24d805ac3">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\XMLPullParser\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0169c6e3bdae7e92013885439712686bcf6c073e\classes.dex" />
+    </item>
+
+</items>
